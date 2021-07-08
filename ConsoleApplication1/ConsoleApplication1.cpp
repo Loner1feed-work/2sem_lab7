@@ -131,6 +131,9 @@ struct list {
 };
 
 void task1Med() {
+
+	cout << "Задание 1 средний уровень\n" << endl;
+
 	list list;
 	list.push(4);
 	list.push(3);
@@ -146,6 +149,9 @@ void task1Med() {
 
 
 void task2Med() {
+
+	cout << "Задание 2 средний уровень\n" << endl;
+
 	list list;
 	
 	list.push(-2.2);
